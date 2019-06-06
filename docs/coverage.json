@@ -1,0 +1,460 @@
+{
+  "coverage": "22.04%",
+  "expectCount": 127,
+  "actualCount": 28,
+  "files": {
+    "src/actions/actions.js": {
+      "expectCount": 7,
+      "actualCount": 7,
+      "undocumentLines": []
+    },
+    "src/components/Calendar/Calendar.jsx": {
+      "expectCount": 5,
+      "actualCount": 5,
+      "undocumentLines": []
+    },
+    "src/components/Calendar/components/MonthSelector/MonthSelector.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/Calendar/components/MonthSelector/MonthSelector.util.js": {
+      "expectCount": 5,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        3,
+        4,
+        6,
+        25
+      ]
+    },
+    "src/components/Calendar/components/PrintSheet/PrintSheet.jsx": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        7
+      ]
+    },
+    "src/components/Calendar/components/YearSelector/YearSelector.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/Calendar/redux.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        11
+      ]
+    },
+    "src/components/Header/Header.jsx": {
+      "expectCount": 7,
+      "actualCount": 4,
+      "undocumentLines": [
+        71,
+        130,
+        149
+      ]
+    },
+    "src/components/Header/components/Clock/Clock.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        8
+      ]
+    },
+    "src/components/Header/components/Clock/utils/initLocalClocks.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/components/Header/components/Clock/utils/moveMinuteHands.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        2
+      ]
+    },
+    "src/components/Header/components/Clock/utils/moveSecondHands.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/components/Header/components/Clock/utils/setUpMinuteHands.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "src/components/Header/components/Summary/Summary.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        20
+      ]
+    },
+    "src/components/Header/components/Summary/components/DayOffHours/DayOffHours.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        13
+      ]
+    },
+    "src/components/Header/components/Summary/components/DeviationHours/DeviationHours.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        13
+      ]
+    },
+    "src/components/Header/components/Summary/components/DeviationHours/utils.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "src/components/Header/components/Summary/components/PaidHours/PaidHours.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        16
+      ]
+    },
+    "src/components/Header/components/Summary/components/PaidHours/utils.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        2,
+        5
+      ]
+    },
+    "src/components/Header/components/Summary/components/PlannedHours/PlannedHours.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        7
+      ]
+    },
+    "src/components/Header/components/Summary/components/WorkedHours/WorkedHours.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        10
+      ]
+    },
+    "src/components/Header/components/Userdata/Userdata.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/Header/components/Userdata/components/DisplayTable/DisplayTable.jsx": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        10,
+        16
+      ]
+    },
+    "src/components/Header/components/Userdata/components/DisplayTable/components/Display.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "src/components/Header/components/Userdata/components/DisplayTable/components/Title.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "src/components/Header/components/Userdata/components/EditButton/EditButton.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        12
+      ]
+    },
+    "src/components/Header/components/UserdataModalWindow/UserdataModalWindow.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        11
+      ]
+    },
+    "src/components/Header/components/UserdataModalWindow/components/DefaultTimeInput.jsx": {
+      "expectCount": 5,
+      "actualCount": 0,
+      "undocumentLines": [
+        6,
+        7,
+        9,
+        13,
+        25
+      ]
+    },
+    "src/components/Loading/Loading.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        5
+      ]
+    },
+    "src/components/Table/Table.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        14
+      ]
+    },
+    "src/components/Table/components/TableBody/TableBody.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        21
+      ]
+    },
+    "src/components/Table/components/TableBody/components/TableRow/TableRow.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        26
+      ]
+    },
+    "src/components/Table/components/TableBody/components/TableRow/components/HoursWorked/HoursWorked.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        16
+      ]
+    },
+    "src/components/Table/components/TableBody/components/TableRow/components/HoursWorked/utils.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        19
+      ]
+    },
+    "src/components/Table/components/TableBody/components/TableRow/components/PlanDifferenceInput/PlanDifferenceInput.jsx": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        14,
+        17,
+        27
+      ]
+    },
+    "src/components/Table/components/TableBody/components/TableRow/components/PlanDifferenceInput/redux.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        5
+      ]
+    },
+    "src/components/Table/components/TableBody/components/TableRow/components/PlannedWorkTimeField/PlannedWorkTimeField.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        12
+      ]
+    },
+    "src/components/Table/components/TableBody/components/TableRow/components/PlannedWorkTimeField/PlannedWorkTimeField.types.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "src/components/Table/components/TableBody/components/TableRow/components/TimeInput/TimeInput.jsx": {
+      "expectCount": 10,
+      "actualCount": 0,
+      "undocumentLines": [
+        20,
+        21,
+        26,
+        30,
+        34,
+        49,
+        55,
+        61,
+        90,
+        106
+      ]
+    },
+    "src/components/Table/components/TableBody/components/TableRow/components/TimeInput/redux.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        5
+      ]
+    },
+    "src/components/Table/components/TableBody/components/TableRow/components/TimeInput/utils.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        2
+      ]
+    },
+    "src/components/Table/components/TableBody/redux.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        2
+      ]
+    },
+    "src/components/Table/components/TableBody/utils.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        6
+      ]
+    },
+    "src/components/Table/components/TableTitles/TableTitles.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        9
+      ]
+    },
+    "src/containers/App/App.jsx": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        18,
+        19,
+        23
+      ]
+    },
+    "src/containers/App/redux.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        8
+      ]
+    },
+    "src/index.jsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        10
+      ]
+    },
+    "src/reducers/calendarStore.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        5,
+        7
+      ]
+    },
+    "src/reducers/fetchStatus.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/reducers/staticStore.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/reducers/timesheetStore.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        11
+      ]
+    },
+    "src/reducers/transformations/officeList.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/reducers/transformations/timesheetStoreTransformations.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        10,
+        12,
+        19
+      ]
+    },
+    "src/reducers/updateRowStatus.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        2
+      ]
+    },
+    "src/reducers/userDataStatus.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        2
+      ]
+    },
+    "src/reducers/userStore.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/sagas/sagas.js": {
+      "expectCount": 7,
+      "actualCount": 0,
+      "undocumentLines": [
+        8,
+        11,
+        50,
+        79,
+        114,
+        126,
+        159
+      ]
+    },
+    "src/services/api.js": {
+      "expectCount": 2,
+      "actualCount": 2,
+      "undocumentLines": []
+    },
+    "src/store/configureStore.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        8
+      ]
+    },
+    "src/utils/utils.js": {
+      "expectCount": 13,
+      "actualCount": 6,
+      "undocumentLines": [
+        38,
+        58,
+        63,
+        75,
+        108,
+        116,
+        130
+      ]
+    }
+  }
+}

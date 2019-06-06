@@ -1,0 +1,505 @@
+{
+  "timesheetStore": {
+    "basePlannedTime": 176,
+    "workedTime": 10080,
+    "dayOffTime": 480,
+    "defaultStartTime": 480,
+    "months": [
+      {
+        "title": "2019/1",
+        "name": "január",
+        "actual": false
+      },
+      {
+        "title": "2019/2",
+        "name": "február",
+        "actual": false
+      },
+      {
+        "title": "2019/3",
+        "name": "március",
+        "actual": false
+      },
+      {
+        "title": "2019/4",
+        "name": "április",
+        "actual": false
+      },
+      {
+        "title": "2019/5",
+        "name": "május",
+        "actual": true
+      },
+      {
+        "title": "2019/6",
+        "name": "június",
+        "actual": false
+      },
+      {
+        "title": "2019/7",
+        "name": "július",
+        "actual": false
+      },
+      {
+        "title": "2019/8",
+        "name": "augusztus",
+        "actual": false
+      },
+      {
+        "title": "2019/9",
+        "name": "szeptember",
+        "actual": false
+      },
+      {
+        "title": "2019/10",
+        "name": "október",
+        "actual": false
+      },
+      {
+        "title": "2019/11",
+        "name": "november",
+        "actual": false
+      },
+      {
+        "title": "2019/12",
+        "name": "december",
+        "actual": false
+      }
+    ],
+    "monthDays": [
+      {
+        "date": 1556661600,
+        "defaultStart": null,
+        "defaultEnd": null,
+        "defaultDateTitle": "ünnepnap",
+        "deviationType": -1,
+        "workStart": null,
+        "workEnd": null,
+        "minWork": null,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1556748000,
+        "defaultStart": 480,
+        "defaultEnd": 990,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 990,
+        "minWork": 510,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1556834400,
+        "defaultStart": 480,
+        "defaultEnd": 840,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": null,
+        "workEnd": null,
+        "minWork": 360,
+        "dayOff": true,
+        "currentDay": false
+      },
+      {
+        "date": 1556920800,
+        "defaultStart": null,
+        "defaultEnd": null,
+        "defaultDateTitle": "szabadnap",
+        "deviationType": -1,
+        "workStart": null,
+        "workEnd": null,
+        "minWork": null,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1557007200,
+        "defaultStart": null,
+        "defaultEnd": null,
+        "defaultDateTitle": "szabadnap",
+        "deviationType": -1,
+        "workStart": null,
+        "workEnd": null,
+        "minWork": null,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1557093600,
+        "defaultStart": 480,
+        "defaultEnd": 990,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 990,
+        "minWork": 510,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1557180000,
+        "defaultStart": 480,
+        "defaultEnd": 990,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 990,
+        "minWork": 510,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1557266400,
+        "defaultStart": 480,
+        "defaultEnd": 990,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 990,
+        "minWork": 510,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1557352800,
+        "defaultStart": 480,
+        "defaultEnd": 990,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 990,
+        "minWork": 510,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1557439200,
+        "defaultStart": 480,
+        "defaultEnd": 840,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 840,
+        "minWork": 360,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1557525600,
+        "defaultStart": null,
+        "defaultEnd": null,
+        "defaultDateTitle": "szabadnap",
+        "deviationType": -1,
+        "workStart": null,
+        "workEnd": null,
+        "minWork": null,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1557612000,
+        "defaultStart": null,
+        "defaultEnd": null,
+        "defaultDateTitle": "szabadnap",
+        "deviationType": -1,
+        "workStart": null,
+        "workEnd": null,
+        "minWork": null,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1557698400,
+        "defaultStart": 480,
+        "defaultEnd": 990,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 990,
+        "minWork": 510,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1557784800,
+        "defaultStart": 480,
+        "defaultEnd": 990,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 990,
+        "minWork": 510,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1557871200,
+        "defaultStart": 480,
+        "defaultEnd": 990,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 990,
+        "minWork": 510,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1557957600,
+        "defaultStart": 480,
+        "defaultEnd": 990,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 990,
+        "minWork": 510,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1558044000,
+        "defaultStart": 480,
+        "defaultEnd": 840,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 840,
+        "minWork": 360,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1558130400,
+        "defaultStart": null,
+        "defaultEnd": null,
+        "defaultDateTitle": "szabadnap",
+        "deviationType": -1,
+        "workStart": null,
+        "workEnd": null,
+        "minWork": null,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1558216800,
+        "defaultStart": null,
+        "defaultEnd": null,
+        "defaultDateTitle": "szabadnap",
+        "deviationType": -1,
+        "workStart": null,
+        "workEnd": null,
+        "minWork": null,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1558303200,
+        "defaultStart": 480,
+        "defaultEnd": 990,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 990,
+        "minWork": 510,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1558389600,
+        "defaultStart": 480,
+        "defaultEnd": 990,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 990,
+        "minWork": 510,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1558476000,
+        "defaultStart": 480,
+        "defaultEnd": 990,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 990,
+        "minWork": 510,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1558562400,
+        "defaultStart": 480,
+        "defaultEnd": 990,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 990,
+        "minWork": 510,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1558648800,
+        "defaultStart": 480,
+        "defaultEnd": 840,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 840,
+        "minWork": 360,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1558735200,
+        "defaultStart": null,
+        "defaultEnd": null,
+        "defaultDateTitle": "szabadnap",
+        "deviationType": -1,
+        "workStart": null,
+        "workEnd": null,
+        "minWork": null,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1558821600,
+        "defaultStart": null,
+        "defaultEnd": null,
+        "defaultDateTitle": "szabadnap",
+        "deviationType": -1,
+        "workStart": null,
+        "workEnd": null,
+        "minWork": null,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1558908000,
+        "defaultStart": 480,
+        "defaultEnd": 990,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 990,
+        "minWork": 510,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1558994400,
+        "defaultStart": 480,
+        "defaultEnd": 990,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 990,
+        "minWork": 510,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1559080800,
+        "defaultStart": 480,
+        "defaultEnd": 990,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 990,
+        "minWork": 510,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1559167200,
+        "defaultStart": 480,
+        "defaultEnd": 990,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 990,
+        "minWork": 510,
+        "dayOff": false,
+        "currentDay": false
+      },
+      {
+        "date": 1559253600,
+        "defaultStart": 480,
+        "defaultEnd": 840,
+        "defaultDateTitle": "munkanap",
+        "deviationType": -1,
+        "workStart": 480,
+        "workEnd": 840,
+        "minWork": 360,
+        "dayOff": false,
+        "currentDay": true
+      }
+    ],
+    "deviationTime": 0,
+    "firstDay": 1556661600,
+    "lastDay": 1559253600
+  },
+  "userStore": {
+    "fullname": "dr. Lantos Tibor",
+    "taxnumber": "8449060281",
+    "office": "VH"
+  },
+  "fetchStore": {
+    "firstLoad": false,
+    "fetchInProgress": false,
+    "fetchSuccess": true,
+    "fetchError": false,
+    "error": null
+  },
+  "staticStore": {
+    "officeList": {
+      "DE": "KIFÜ - Debrecen",
+      "VH": "KIFÜ - Victor Hugo",
+      "CSALOGANY": "KIFÜ - Csalogány",
+      "VACI": "KIFÜ - Váci út"
+    }
+  },
+  "userDataStatus": {
+    "fetchInProgress": false,
+    "fetchSuccess": false,
+    "fetchError": false,
+    "error": null
+  },
+  "updateRowStatus": {
+    "fetchInProgress": false,
+    "fetchSuccess": false,
+    "fetchError": false,
+    "error": null
+  },
+  "calendarStore": {
+    "selectedYear": 2019,
+    "yearList": [
+      2018,
+      2019,
+      2020
+    ],
+    "isActualYearSelected": true,
+    "selectedMonth": 4,
+    "monthList": [
+      "január",
+      "február",
+      "március",
+      "április",
+      "május",
+      "június",
+      "július",
+      "augusztus",
+      "szeptember",
+      "október",
+      "november",
+      "december"
+    ],
+    "isActualMonthSelected": true,
+    "selectedTimeIsPassed": false
+  }
+}

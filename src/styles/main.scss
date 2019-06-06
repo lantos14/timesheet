@@ -1,0 +1,23 @@
+.app-content {
+  .timesheet {
+    border: 1px black solid;
+    padding: 10px;
+
+    .input-field {
+      padding: 10px 0;
+    }
+    table {
+      border: 1px solid black;
+      width: 100%;
+    }
+  }
+}
+// }
+
+.red {
+  background: rgb(255, 141, 141);
+}
+
+.green {
+  background: rgb(181, 255, 181);
+}

@@ -1,0 +1,156 @@
+[
+  {
+    "name": "MonthSelector",
+    "filePath": "src/components/Calendar/components/MonthSelector/MonthSelector.jsx",
+    "lines": [
+      {
+        "lineNumber": 7,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 8,
+        "line": " * renders the months based on `Monthlist` prop"
+      },
+      {
+        "lineNumber": 9,
+        "line": " * @param {number} SelectedYear - get the chosen year from `Calendar` state"
+      },
+      {
+        "lineNumber": 10,
+        "line": " * @param {number} selectedMonth - get the chosen month from `Calendar` state"
+      },
+      {
+        "lineNumber": 11,
+        "line": " * @param {number} monthList - it renders the list based on monthList"
+      },
+      {
+        "lineNumber": 12,
+        "line": " * @param {function} handleClick - responsible for handling the clicks on year, month * buttons"
+      },
+      {
+        "lineNumber": 13,
+        "line": " */"
+      },
+      {
+        "lineNumber": 14,
+        "line": "const MonthSelector = ({"
+      }
+    ],
+    "codeParams": [
+      "*"
+    ],
+    "docParams": [
+      "SelectedYear",
+      "selectedMonth",
+      "monthList",
+      "handleClick"
+    ]
+  },
+  {
+    "name": "PrintSheet",
+    "filePath": "src/components/Calendar/components/PrintSheet/PrintSheet.jsx",
+    "lines": [
+      {
+        "lineNumber": 12,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 13,
+        "line": " * renders the Print button."
+      },
+      {
+        "lineNumber": 14,
+        "line": " * Its basically a form with an action pointing to the print endpoint."
+      },
+      {
+        "lineNumber": 15,
+        "line": " * It generates the actually selected month's data via pdf"
+      },
+      {
+        "lineNumber": 16,
+        "line": " * @param {number} selectedYear - the component needs"
+      },
+      {
+        "lineNumber": 17,
+        "line": " * the actual year and month to start the API request"
+      },
+      {
+        "lineNumber": 18,
+        "line": " * @param {number} actualMonth - the component needs"
+      },
+      {
+        "lineNumber": 19,
+        "line": " * the actual year and month to start the API request"
+      },
+      {
+        "lineNumber": 20,
+        "line": " */"
+      },
+      {
+        "lineNumber": 21,
+        "line": "const PrintSheet = ({ selectedYear, actualMonth }) => {"
+      }
+    ],
+    "codeParams": [
+      "*"
+    ],
+    "docParams": [
+      "selectedYear",
+      "actualMonth"
+    ]
+  },
+  {
+    "name": "YearSelector",
+    "filePath": "src/components/Calendar/components/YearSelector/YearSelector.jsx",
+    "lines": [
+      {
+        "lineNumber": 3,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 4,
+        "line": " * renders the months based on `yearList` prop"
+      },
+      {
+        "lineNumber": 5,
+        "line": " * @param {number} SelectedYear - get the chosen year from `Calendar` state"
+      },
+      {
+        "lineNumber": 6,
+        "line": " * @param {number[]} yearList - static array"
+      },
+      {
+        "lineNumber": 7,
+        "line": " * which contains the year before the actual year,"
+      },
+      {
+        "lineNumber": 8,
+        "line": " * the actual year, and the year after it"
+      },
+      {
+        "lineNumber": 9,
+        "line": " * @param {function} handleClick - received from `Calendar` component,"
+      },
+      {
+        "lineNumber": 10,
+        "line": " * responsible for handling the clicks on year, month buttons"
+      },
+      {
+        "lineNumber": 11,
+        "line": " */"
+      },
+      {
+        "lineNumber": 12,
+        "line": "const YearSelector = ({"
+      }
+    ],
+    "codeParams": [
+      "*"
+    ],
+    "docParams": [
+      "SelectedYear",
+      "yearList",
+      "handleClick"
+    ]
+  }
+]
